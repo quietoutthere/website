@@ -1,58 +1,65 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "JavaScript",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "React.Js",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "HTML/CSS",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "RESTful APIs",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "Bootstrap",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "VSCode",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Git/GitHub",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Netlify",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Postman",
+      "image": {
+        "src": "",
         "alt": ""
       }
     }

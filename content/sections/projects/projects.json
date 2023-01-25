@@ -2,46 +2,70 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "React.Js",
+      "title": "Star Wars Database!",
+      "description": "This is my second project using React.js framework and my first project using a RESTful API. Holy, moly did it feel good to get this one out of the way. I really had to dig down deep into the nitty gritty of programming to totally understand how to manipulate the data. The first area I had to research was properly understanding JSON, considering all the API data was returned as such. Secondly, I had to research and watch tutorials on asynchronous programming. I had initially begun my project using .then / .catch to make the information malleable, however, once I discovered async / await, my code was cleaned up to a more readable display. Cycling through the data and displaying it on a Bootstrap table was a relatively easy task, however, the next brick wall I ran into head first was activating and disabling my Bootstrap pagination buttons. I turned to Edabit and continually drilled loops to figure out the logic behind each numbered button. I also really had to understand props in order to get the information I needed all the way from my parent component Header.js, down to the lowest child component: the pagination. All in all I am very happy with how it works, as well as how it looks.",
+      "tags": ["RESTFul API", "React", "Bootstrap"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/newSWAPI.png",
+        "alt": "Quick Setup"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/quietoutthere/star-wars-API"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://main--stellar-biscuit-661310.netlify.app/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "React.Js",
+      "title": "Expense Tracker",
+      "description": "My first project with React! I am very happy with this accomplishment. Since I began the journey of learning to code, I had heard a lot of talk surrounding React and its difficulty to learn. I certainly had to use a lot of brain power to figure this one out. I spent the majority of my time comprehending state. Particularly the hook useState(). This was the foundation of my project. I used this hook to store all of the input fields' values in an object. I then used this object as an array, which allowed for me to cycle through all the data the user had input. Once I had all that data, I exported this information to ExpenseDisplay component. This component then rendered the information in the form of a table (styled with Bootstrap) and sent this information back to the InputFields component. The user can also delete any of the rows if they choose.",
+      "tags": ["React", "Bootstrap"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/react-expense-tracker.png",
+        "alt": ""
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/quietoutthere/react-expense-tracker"
+        },
+        {
+          "type": "external",
+          "url": "https://to-do-application-with-react.netlify.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "JavaScript",
+      "title": "Calculator",
+      "description": "This was a mentally taxing yet rewarding project to complete. However, I approached this project with a more systematic game plan which helped in its completion. I started the project by simply drawing out the layout of the calculator on a sheet of paper. I then wrote out the processes of how one would use a calculator. These test cases really helped me break down my logic and start the conceptualization of the project with a solid foundation. One tool I heavily relied on was the use of an undefined variable, that was used as a malleable container that had the ability to change with each button push. This concept gave me the use of continuous operations, and the calculator has the ability to run operations an infinite number",
+      "tags": ["JavaScript", "HTML/CSS"],
+      "image": {
+        "src": "../../images/calculator2.png",
+        "alt": ""
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/quietoutthere/calculator"
+        },
+        {
+          "type": "external",
+          "url": "https://quietoutthere.github.io/calculator/"
         }
       ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }

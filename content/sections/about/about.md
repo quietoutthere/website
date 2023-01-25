@@ -1,14 +1,13 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
+imageSrc: "../../images/personal-image.JPG"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Hello 😊 My name is Evan Oyster and I am a natural born explorer.  I grew up in the farmlands here in Ohio. I always found myself traversing the natural world from a young age. Whether it was floating down rivers in a home built boat (made up of old plastic drums and a pallet held together with twine) or following deer trails through state forests, I was always curious as to what was around the next bend. 
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+This natural curiosity led me to across the entire United States working various adventurous jobs. In my 20s I spent my summers guiding folks down white-water rapids on the rivers of Colorado and my winters grooming and maintaining the ski slopes of various ski resorts in the Rocky Mountains. When I was not working, my explorations took me surfing on the waves of Central America, rock climbing the cliff faces of the American Southwest, and fighting wild fires as a volunteer fireman in the frontiers of Alaska.
+ 
+My inquisitive mind has now led me to begin exploring the digital world of software and web development. Part of my youth (before embarking on my travels) was spent building gaming computers and having LAN parties with my childhood friends (pre-Steam). Slowly piecing together the hardware of a desktop was a fun puzzle for me. I’ve now transitioned into the world of software, where I get to piece together React components, beautify them with CSS and Bootstrap, and deploy them to world wide web on my GitHub and Netlify account. 
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+I’ve fallen in love with the arduous path that is self-taught development. I truly wake up each day excited about what I am going to learn.  With every programming language comes an unknown landscape just asking me to explore it. Looking back on the earliest projects in my portfolio that only required some basic HTML and CSS and a simple click of a button to deploy it to GitHub pages, I can’t help but to think back of how challenging I believed that to be. It’s exciting to reflect on that point in my journey, and look to where I am now.  Those few months have been a whirlwind, and I cannot wait to see what is in store for me 1, 5, or 10 years from now.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
