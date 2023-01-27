@@ -4,7 +4,7 @@
       "visible": true,
       "category": "React.Js",
       "title": "Star Wars Database!",
-      "description": "This is my second project using React.js framework and my first project using a RESTful API. The first area I had to research was properly understanding JSON, considering all the API data was returned as such. Secondly, I had to research and watch tutorials on asynchronous programming. I used async / await to write cleanand readable code. Cycling through the data and displaying it on a Bootstrap table was a relatively easy task, however, the next brick wall I ran into head first was activating and disabling my Bootstrap pagination buttons. I turned to Edabit and continually drilled loops to figure out the logic behind each numbered button. I also really had to understand props in order to get the information I needed all the way from my parent component Header.js, down to the lowest child component: the pagination. All in all I am very happy with how it works, as well as how it looks.",
+      "description": "This is a program that allows a user to search their favorite character's information from the Star Wars Universe.  It pulls from the Star Wars API and displays this information on a Bootstrap Table. The Pagination allows the user to scroll through the data in blocks of 10 characters.",
       "tags": ["RESTFul API", "React", "Bootstrap"],
       "image": {
         "src": "../../images/newSWAPI.png",
@@ -25,7 +25,7 @@
       "visible": true,
       "category": "React.Js",
       "title": "Expense Tracker",
-      "description": "My first project with React! Since I began the journey of learning to code, I had heard a lot of talk surrounding React and its difficulty to learn. I spent the majority of my time comprehending state. Particularly the hook useState(). This was the foundation of my project. I used this hook to store all of the input fields' values in an object. I then used this object as an array, which allowed for me to cycle through all the data the user had input. Once I had all that data, I exported this information to ExpenseDisplay component. This component then rendered the information in the form of a table (styled with Bootstrap) and sent this information back to the InputFields component. The user can also delete any of the rows if they choose.",
+      "description": "This program is a simple expense tracker.  The user inputs the type, vendor, date, and amount of a purchase. The application will then display this data via a Bootstrap table. The user can also delete any expense.",
       "tags": ["React", "Bootstrap"],
       "image": {
         "src": "../../images/react-expense-tracker.png",
@@ -46,7 +46,7 @@
       "visible": true,
       "category": "JavaScript",
       "title": "Calculator",
-      "description": "This was a mentally taxing yet rewarding project to complete. However, I approached this project with a more systematic game plan which helped in its completion. I started the project by simply drawing out the layout of the calculator on a sheet of paper. I then wrote out the processes of how one would use a calculator. These test cases really helped me break down my logic and start the conceptualization of the project with a solid foundation. One tool I heavily relied on was the use of an undefined variable, that was used as a malleable container that had the ability to change with each button push. This concept gave me the use of continuous operations, and the calculator has the ability to run operations an infinite number",
+      "description": "A simple calculator application. This program allows for continuous operations of any two numbers. It allows for addition, subtraction, multiplication, and division.",
       "tags": ["JavaScript", "HTML/CSS"],
       "image": {
         "src": "../../images/calculator2.png",
