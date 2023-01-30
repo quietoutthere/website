@@ -7,7 +7,7 @@
       "description": "This is a program that allows a user to search their favorite character's information from the Star Wars Universe.  It pulls from the Star Wars API and displays this information on a Bootstrap Table. The Pagination allows the user to scroll through the data in blocks of 10 characters.",
       "tags": ["RESTFul API", "React", "Bootstrap"],
       "image": {
-        "src": "../../images/newSWAPI.png",
+        "src": "../../images/new-pagination.png",
         "alt": "Quick Setup"
       },
       "links": [
